@@ -15,17 +15,12 @@ I'm a software engineer and designer who likes making things work and making the
 
 <br>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="32" height="32" style="filter: brightness(0) invert(1);"/></td>
-    <td width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="32" height="32" style="filter: brightness(0) invert(1);"/></td>
-    <td width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="32" height="32" style="filter: brightness(0) invert(1);"/></td>
-    <td width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="Adobe Illustrator" width="32" height="32" style="filter: brightness(0) invert(1);"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="34" height="34" style="filter: brightness(0) invert(1);" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="34" height="34" style="filter: brightness(0) invert(1);" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="34" height="34" style="filter: brightness(0) invert(1);" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="34" height="34" style="filter: brightness(0) invert(1);" />
+</p>
 
 <br>
 
