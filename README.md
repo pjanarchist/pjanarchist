@@ -16,10 +16,10 @@ I'm a software engineer and designer who likes making things work and making the
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="32" height="32" style="filter: brightness(0) invert(1);"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="32" height="32" style="filter: brightness(0) invert(1);"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="32" height="32" style="filter: brightness(0) invert(1);"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="Adobe Illustrator" width="32" height="32" style="filter: brightness(0) invert(1);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="32" height="32" style="filter: brightness(0) invert(1); margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="32" height="32" style="filter: brightness(0) invert(1); margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="32" height="32" style="filter: brightness(0) invert(1); margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="Adobe Illustrator" width="32" height="32" style="filter: brightness(0) invert(1); margin: 0 15px;"/>
 </p>
 
 <br>
