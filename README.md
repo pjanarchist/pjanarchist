@@ -1,35 +1,19 @@
-# Hi, I'm Alfred 👋
-**Software Engineer • Game Designer • Vector Artist**
+# Hi, I'm Alfred.
 
-I sit at the intersection of code, design, and audio. Currently leveraging my experience in C, C#, and Godot to build interactive experiences, create vector art, and compose music.
+I'm a software engineer and designer who likes making things work and making them look good. I write code, design vector graphics, and make music. Right now, I'm spending my time blending those three things together to build games.
 
-🎮 **Currently working on:** A game for an upcoming game jam with an awesome 3-person team!
-
----
-
-### 🛠️ Tech Stack & Creative Tools
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-🎨 **Design & Audio:** Vector Design | Music Composition & Production
+🎮 **What I'm up to:** Currently jamming on a new game project with a tight team of three. 
 
 ---
 
-### 📊 GitHub Insights
+### The Toolkit
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=pjanarchist&theme=dark&no-background=true&margin-w=15" height="120" alt="trophies" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pjanarchist&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" height="140" alt="top langs" />
-</p>
+* **Code:** C#, C, Godot Engine, Git, and Linux.
+* **Creative:** Vector design & music composition.
 
 ---
 
-### 🤝 Let's Connect
+### Find Me Around
 
-[![Email](https://img.shields.io/badge/Email-alfred123%40duck.com-red?style=flat-square&logo=maildotru&logoColor=white)](mailto:alfred123@duck.com)
-[![YouTube](https://img.shields.io/badge/YouTube-pjanarchist-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/pjanarchist)
+* **Email:** alfred123@duck.com
+* **YouTube:** [@pjanarchist](https://www.youtube.com/c/pjanarchist)
