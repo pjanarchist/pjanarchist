@@ -1,16 +1,35 @@
-<h1 align="center">Hi 👋, I'm Alfred</h1>
-<h3 align="center">A Software Engineer and Designer</h3>
+# Hi, I'm Alfred 👋
+**Software Engineer • Game Designer • Vector Artist**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pjanarchist" alt="pjanarchist" /></a> </p>
+I sit at the intersection of code, design, and audio. Currently leveraging my experience in C, C#, and Godot to build interactive experiences, create vector art, and compose music.
 
-- 📫 How to reach me **alfred123@duck.com**
+🎮 **Currently working on:** A game for an upcoming game jam with an awesome 3-person team!
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Tech Stack & Creative Tools
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+🎨 **Design & Audio:** Vector Design | Music Composition & Production
+
+---
+
+### 📊 GitHub Insights
+
 <p align="left">
-<a href="https://www.youtube.com/c/pjanarchist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pjanarchist" height="30" width="40" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=pjanarchist&theme=dark&no-background=true&margin-w=15" height="120" alt="trophies" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pjanarchist&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" height="140" alt="top langs" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pjanarchist&show_icons=true&locale=en&layout=compact" alt="pjanarchist" /></p
+### 🤝 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-alfred123%40duck.com-red?style=flat-square&logo=maildotru&logoColor=white)](mailto:alfred123@duck.com)
+[![YouTube](https://img.shields.io/badge/YouTube-pjanarchist-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/pjanarchist)
