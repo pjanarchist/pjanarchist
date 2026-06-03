@@ -9,7 +9,11 @@ I'm a software engineer and designer who likes making things work and making the
 
 ---
 
+<br>
+
 <h3 align="center">The Toolkit</h3>
+
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="32" height="32" style="filter: brightness(0) invert(1);"/> &nbsp;&nbsp;
@@ -18,7 +22,7 @@ I'm a software engineer and designer who likes making things work and making the
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="Adobe Illustrator" width="32" height="32" style="filter: brightness(0) invert(1);"/>
 </p>
 
-<p align="center">Vector Design &bull; Music Composition</p>
+<br>
 
 ---
 
