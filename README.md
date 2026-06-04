@@ -16,10 +16,21 @@ I'm a software engineer and designer who likes making things work and making the
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="34" height="34" style="filter: brightness(0) invert(1) brightness(2);" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="34" height="34" style="filter: brightness(0) invert(1) brightness(2);" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="34" height="34" style="filter: brightness(0) invert(1) brightness(2);" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="34" height="34" style="filter: brightness(0) invert(1) brightness(2);" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="34" height="34" style="filter: brightness(0) invert(1) brightness(2);" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://godotengine.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="34" height="34" style="filter: brightness(0) invert(1) brightness(2);" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="34" height="34" style="filter: brightness(0) invert(1) brightness(2);" />
+</a>
 </p>
 
 <br>
