@@ -1,8 +1,8 @@
-# Hi, I'm Alfred.
+# Good Day.
 
 ### Software Engineer & Game Developer
 
-I build things across the stack — low-level systems, web, and full game loops. Currently deep in an indie game project with a team of three.
+My name is Alfred, and i I build things across the stack — low-level systems, web, and full game loops. Currently deep in an indie game project with a team of three.
 
 <a href="https://pjanarchist.itch.io">
   <img src="https://img.shields.io/badge/Follow%20on%20itch.io-DC143C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Follow on itch.io" />
