@@ -1,6 +1,6 @@
-# Good Day.
+# Software Engineer & Game Developer.
 
-### Software Engineer & Game Developer
+### Good Day,
 
 My name is Alfred, and i I build things across the stack — low-level systems, web, and full game loops. Currently deep in an indie game project with a team of three.
 
