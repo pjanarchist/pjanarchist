@@ -14,12 +14,12 @@ My name is Alfred, and I build things across the stack — low-level systems and
 <h3 align="center">The Toolkit</h3>
 <br>
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" style="filter: brightness(0) invert(1);" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="30" height="30" style="filter: brightness(0) invert(1);" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pjanarchist" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" style="filter: brightness(0) invert(1);" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="30" height="30" style="filter: brightness(0) invert(1);" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="Bash" width="30" height="30" style="filter: brightness(0) invert(1);" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" width="30" height="30" style="filter: brightness(0) invert(1);" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" alt="Linux" width="30" height="30" style="filter: brightness(0) invert(1);" /></a>
 </p>
 
 <br>
