@@ -49,6 +49,6 @@ My name is Alfred, and I build things across the stack — low-level systems and
   - What are you currently learning or obsessing over?
 -->
 
-_Coming soon — check back._
+_yet to begin._
 
 </details>
